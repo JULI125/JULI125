@@ -1,16 +1,16 @@
-### Hi there 👋
+<div id="header" align="center">
+<img src="https://media.giphy.com/media/4H3Ii5eLChYul9p7NL/giphy-downsized-large.gif" width="200">
+<h1 align="center">Hi 👋, I'm Juliana, Backend Develop</h1>
+</div>
 
-<!--
-**JULI125/JULI125** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="left">
+ <h3>Languajes and Tools:</h3>
+  <div>
+    <img src="" title="NodeJS" alt="NodeJS" width="40" height="40"/ &nbsp;>
+    <img src="" title="Mysql" alt="Mysql" width="40" height="40"/ &nbsp;>
+    <img src="" title="PosgrestSQL" alt="PostgrestSQL" width="40" height="40"/ &nbsp;>
+    <img src="" title="MongoDB" alt="MongoDB" width="40" height="40"/ &nbsp;>
+    <a href="https://www.flaticon.com/free-icons/typescript" title="typescript">Typescript icons created by Freepik - Flaticon</a>" alt="TypeScript" width="40" height="40"/ &nbsp;>
+    <img src="" title="JavaScript" alt="JavaScript" width="40" height="40"/ &nbsp;>
+  </div>
+</div>
