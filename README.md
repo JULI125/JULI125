@@ -6,11 +6,11 @@
 <div align="left">
  <h3>Languajes and Tools:</h3>
   <div>
-    <img src="" title="NodeJS" alt="NodeJS" width="40" height="40"/ &nbsp;>
-    <img src="" title="Mysql" alt="Mysql" width="40" height="40"/ &nbsp;>
-    <img src="" title="PosgrestSQL" alt="PostgrestSQL" width="40" height="40"/ &nbsp;>
-    <img src="" title="MongoDB" alt="MongoDB" width="40" height="40"/ &nbsp;>
-    <a href="https://www.flaticon.com/free-icons/typescript" title="typescript" width="40" height="40"/ &nbsp;></a>
-    <img src="" title="JavaScript" alt="JavaScript" width="40" height="40"/ &nbsp;>
+    <img src="nodejs.png" title="NodeJS" alt="NodeJS" width="40" height="40"/ &nbsp;>
+    <img src="mysql.png" title="Mysql" alt="Mysql" width="40" height="40"/ &nbsp;>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" title="PosgrestSQL" alt="PostgrestSQL" width="40" height="40"/ &nbsp;>
+    <img src="hoja.png" title="MongoDB" alt="MongoDB" width="40" height="40"/ &nbsp;>
+    <img src="typescript.png" title="typescript" alt=""typescript" width="40" height="40"/ &nbsp;>
+    <img src="js.png" title="JavaScript" alt="JavaScript" width="40" height="40"/ &nbsp;>
   </div>
 </div>
