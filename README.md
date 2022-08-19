@@ -10,7 +10,7 @@
     <img src="" title="Mysql" alt="Mysql" width="40" height="40"/ &nbsp;>
     <img src="" title="PosgrestSQL" alt="PostgrestSQL" width="40" height="40"/ &nbsp;>
     <img src="" title="MongoDB" alt="MongoDB" width="40" height="40"/ &nbsp;>
-    <a href="https://www.flaticon.com/free-icons/typescript" title="typescript">Typescript icons created by Freepik - Flaticon</a>" alt="TypeScript" width="40" height="40"/ &nbsp;>
+    <a href="https://www.flaticon.com/free-icons/typescript" title="typescript" width="40" height="40"/ &nbsp;></a>
     <img src="" title="JavaScript" alt="JavaScript" width="40" height="40"/ &nbsp;>
   </div>
 </div>
