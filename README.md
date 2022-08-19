@@ -6,7 +6,7 @@
 <div align="left">
  <h3>Languajes and Tools:</h3>
   <div>
-    <img src="nodejs.png" title="NodeJS" alt="NodeJS" width="40" height="40"/ &nbsp;>
+    <img src="[nodejs.png](https://iconape.com/node-js-2-logo-icon-svg-png.html)" title="NodeJS" alt="NodeJS" width="40" height="40"/ &nbsp;>
     <img src="mysql.png" title="Mysql" alt="Mysql" width="40" height="40"/ &nbsp;>
     <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" title="PosgrestSQL" alt="PostgrestSQL" width="40" height="40"/ &nbsp;>
     <img src="hoja.png" title="MongoDB" alt="MongoDB" width="40" height="40"/ &nbsp;>
