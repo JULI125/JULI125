@@ -6,7 +6,7 @@
 <div align="left">
  <h3>Contact:</h3>
   <div>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Linkedin_icon.svg/1024px-Linkedin_icon.svg.png" title="Linkedin" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Linkedin_icon.svg/1024px-Linkedin_icon.svg.png" title="Linkedin" href="https://www.linkedin.com/in/juliana-torres-posada/" width="40" height="40"/>
   </div>
   </div>
 
