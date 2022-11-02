@@ -4,14 +4,6 @@
 </div>
 
 <div align="left">
- <h3>Contact:</h3>
-  <div>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Linkedin_icon.svg/1024pxLinkedin_icon.svg.png" src="https://www.linkedin.com/in/juliana-torres-posada" title="Linkedin" width="40" height="40">
-  </div>
-  </div>
-
-
-<div align="left">
  <h3>Languajes and Tools:</h3>
   <div>
     <img src="https://www.svgrepo.com/show/303360/nodejs-logo.svg" title="NodeJS" alt="NodeJS" width="60" height="60"/ &nbsp;>
