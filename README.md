@@ -6,8 +6,8 @@
 <div align="left">
  <h3>Contact:</h3>
   <div>
-    <a href="https://www.linkedin.com/in/juliana-torres-posada/"
-     img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Linkedin_icon.svg/1024pxLinkedin_icon.svg.png" title="Linkedin" width="40" height="40"></a>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Linkedin_icon.svg/1024pxLinkedin_icon.svg.png" title="Linkedin" href="https://www.linkedin.com/in/juliana-torres-posada" width="40" height="40">
+   
   </div>
   </div>
 
@@ -19,7 +19,7 @@
     <img src="https://www.svgrepo.com/show/303251/mysql-logo.svg" title="Mysql" alt="Mysql" width="70" height="70"/ &nbsp;>
     <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" title="PosgrestSQL" alt="PostgrestSQL" width="40" height="40"/ &nbsp;>
     <img src="https://www.svgrepo.com/show/303232/mongodb-logo.svg" title="MongoDB" alt="MongoDB" width="70" height="70"/ &nbsp;>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/2048px-Typescript_logo_2020.svg.png" title="typescript" alt=""typescript" width="40" height="40"/ &nbsp;>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/2048px-Typescript_logo_2020.svg.png" title="typescript" alt="typescript" width="40" height="40"/ &nbsp;>
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png"       title="JavaScript" alt="JavaScript" width="40" height="40"/ &nbsp;>
  </div>
 </div>
