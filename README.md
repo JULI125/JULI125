@@ -19,7 +19,7 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" title="PosgrestSQL" alt="PostgrestSQL" width="40" height="40"/ &nbsp;>
     <img src="[hoja.png](https://logicalidea.xyz/mongodb-comes-tough-database-ransomware/)" title="MongoDB" alt="MongoDB" width="40" height="40"/ &nbsp;>
     <img src="typescript.png" title="typescript" alt=""typescript" width="40" height="40"/ &nbsp;>
-    <img src="javascript.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/ &nbsp;>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png"       title="JavaScript" alt="JavaScript" width="40" height="40"/ &nbsp;>
  </div>
 </div>
 
